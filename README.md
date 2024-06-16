@@ -1,9 +1,10 @@
 <img src="https://i.imgur.com/ydMn5Ny.jpg" alt="Imagem" width="300" height="100">
 
-## Urban Routes  (Sprint 1 - Sprint 2 - Sprint 3)
+## Urban Routes  
 
-Durante meu bootcamp de QA da TripleTen, tive a oportunidade de trabalhar em vários projetos, dentre eles, os três que irei citar agora. Vamos conhecer um pouco mais sobre o Urban Routes! 
-Urban Routes é uma ferramenta incrível que permite criar rotas personalizadas e calcular o tempo e custo da viagem para diferentes meios de transporte. Com uma interface simples e intuitiva, você pode escolher entre diversas opções de transporte e visualizar o tempo estimado de chegada. É uma verdadeira mão na roda para quem está planejando uma viagem ou precisa se locomover pela cidade com praticidade.
+Urban Routes é uma ferramenta que permite criar rotas personalizadas e calcular o tempo e custo da viagem para diferentes meios de transporte. 
+Com uma interface simples e intuitiva, você pode escolher entre diversas opções de transporte e visualizar o tempo estimado de chegada. 
+É uma verdadeira mão na roda para quem está planejando uma viagem ou precisa se locomover pela cidade com praticidade.
 
 ## Projeto 1: Teste de Regressão
 
